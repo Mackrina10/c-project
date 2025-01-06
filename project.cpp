@@ -4,4 +4,4 @@
 int main () {
 // Random number formations
     std::random_devicerd;
-    std::mt19937 
+    std::mt19937 gen(rd());
