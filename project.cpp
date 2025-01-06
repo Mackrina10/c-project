@@ -3,4 +3,4 @@
 
 int main () {
 // Random number formations
-    s
+    std::r
