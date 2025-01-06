@@ -11,4 +11,4 @@ int main () {
     // Generate and print 10 random numbers
      std::cout << "Normal distribution (Mean = 0, StdDev = 1):" << std:
     for (int i = 0; i < 10; ++i) {
-    	  std::cout <<
+    	  std::cout << dis(gen) << " ";
