@@ -12,3 +12,7 @@ int main () {
      std::cout << "Normal distribution (Mean = 0, StdDev = 1):" << std:
     for (int i = 0; i < 10; ++i) {
     	  std::cout << dis(gen) << " ";
+    	   }
+
+    return 0;
+}
