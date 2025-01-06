@@ -10,3 +10,4 @@ int main () {
 
     // Generate and print 10 random numbers
      std::cout << "Normal distribution (Mean = 0, StdDev = 1):" << std:
+    for (int i =
