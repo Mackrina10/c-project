@@ -9,4 +9,4 @@ int main () {
      std::normal_distribution<> dis(0.0, 1.0);
 
     // Generate and print 10 random numbers
-     std::cout
+     std::cout << "Normal distribution (Mean = 0, StdDev = 1):" << std:
