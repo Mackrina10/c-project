@@ -3,4 +3,4 @@
 
 int main () {
 // Random number formations
-    std::random_d
+    std::random_device
