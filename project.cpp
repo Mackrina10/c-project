@@ -2,3 +2,5 @@
 #include <random>
 
 int main () {
+// Random number formations
+    s
